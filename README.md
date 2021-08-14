@@ -71,7 +71,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ## Desenvolvedores
 
 <a href="https://github.com/albertoscandido">**Alberto Candido**</a>
+<br />
 <a href="https://github.com/juliana-happatsch">**Juliana Happatsch**</a>
+<br />
 <a href="https://github.com/marialisboa600">**Maria Lisboa**</a>
+<br />
 <a href="https://github.com/vitor-m-cardoso">**Vitor Cardoso**</a>
 
