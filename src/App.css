@@ -17,13 +17,13 @@
 
 .body {
   min-height: 100vh;
-  width: 360px;
+  width: 100%;
 }
 
 .body-b {
   min-height: 100vh;
   padding-bottom: 50px;
-  width: 360px;
+  width: 100%;
 }
 
 .d-flex {
@@ -250,20 +250,6 @@ input::placeholder {
 .fs-px-14 {
   font-size: 14px;
 }
-
-/*
-#iceLeft {
-  animation: clink .8s infinite ease;
-  opacity: 0.6;
-  transform-origin: 36px 66px;
-}
-
-#iceRight {
-  animation: clink .8s .2s infinite ease;
-  opacity: 0.6;
-  transform-origin: 60px 78px;
-} */
-
 
 .meals > .logo {
   animation: shake 1.5s infinite ease;
