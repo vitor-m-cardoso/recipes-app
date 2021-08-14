@@ -3,7 +3,7 @@
 ## Descrição do Projeto
 
 <p>Um app de receitas (projetado para mobile) onde o usuário pode interagir e aplicar diferentes tipos de buscas e filtros.</p>
-<h1 align="center">  <a href="https://vitor-m-cardoso.github.io/recipes-app/">🔗 Link do projeto</a>  </h1>  <p align="center">🚀 #VQV</p>
+<h1 align="center">  <a href="https://vitor-m-cardoso.github.io/recipes-app/" target="_blank">🔗 Link do projeto</a>  </h1>  <p align="center">🚀 #VQV</p>
 
 
 # Sumário
@@ -20,8 +20,8 @@ Este projeto foi criado visando desenvolver um app de receitas, utilizando duas 
 
 Foram utilizadas 2 APIs distintas como base de dados, linkadas abaixo, uma para comidas e a outra para bebidas.
 
-- <a href="https://www.themealdb.com/api.php">Comidas</a>
-- <a href="https://www.thecocktaildb.com/api.php">Bebidas</a>
+- <a href="https://www.themealdb.com/api.php" target="_blank">Comidas</a>
+- <a href="https://www.thecocktaildb.com/api.php" target="_blank">Bebidas</a>
 
 O layout tem como foco principal os dispositivos móveis.
 
@@ -29,11 +29,11 @@ O layout tem como foco principal os dispositivos móveis.
 
 ## Tecnologias
 
-- <a href="https://pt-br.reactjs.org/docs/getting-started.html">React</a>
-- <a href="https://reactrouter.com/web/guides/quick-start">React-router-dom</a>
-- <a href="https://react-redux.js.org/">React-Redux</a>
-- <a href="https://redux.js.org/">Redux</a>
-- <a href="https://www.npmjs.com/package/redux-thunk">React-thunk</a>
+- <a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank">React</a>
+- <a href="https://reactrouter.com/web/guides/quick-start" target="_blank">React-router-dom</a>
+- <a href="https://react-redux.js.org/" target="_blank">React-Redux</a>
+- <a href="https://redux.js.org/" target="_blank">Redux</a>
+- <a href="https://www.npmjs.com/package/redux-thunk" target="_blank">React-thunk</a>
 - CSS
 
 <br/>
@@ -69,11 +69,11 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ## Desenvolvedores
 
-<a href="https://github.com/albertoscandido">**Alberto Candido**</a>
+<a href="https://github.com/albertoscandido" target="_blank">**Alberto Candido**</a>
 <br />
-<a href="https://github.com/juliana-happatsch">**Juliana Happatsch**</a>
+<a href="https://github.com/juliana-happatsch" target="_blank">**Juliana Happatsch**</a>
 <br />
-<a href="https://github.com/marialisboa600">**Maria Lisboa**</a>
+<a href="https://github.com/marialisboa600" target="_blank">**Maria Lisboa**</a>
 <br />
-<a href="https://github.com/vitor-m-cardoso">**Vitor Cardoso**</a>
+<a href="https://github.com/vitor-m-cardoso" target="_blank">**Vitor Cardoso**</a>
 
