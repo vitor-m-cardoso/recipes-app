@@ -38,7 +38,7 @@ O layout tem como foco principal os dispositivos móveis.
 
 <br/>
 
-### Habilidades desenvolvidas
+## Habilidades desenvolvidas
 
 - Utilizar Redux para gerenciar estado;
 - Utilizar a biblioteca React-Redux;
