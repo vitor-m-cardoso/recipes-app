@@ -3,7 +3,7 @@
 ## Descrição do Projeto
 
 <p>Um app de receitas (projetado para mobile) onde o usuário pode interagir e aplicar diferentes tipos de buscas e filtros.</p>
-<h1 align="center">  <a href="https://albertoscandido.github.io/recipes-app/">🔗 Link do projeto</a>  </h1>  <p align="center">🚀 #VQV</p>
+<h1 align="center">  <a href="https://vitor-m-cardoso.github.io/recipes-app/">🔗 Link do projeto</a>  </h1>  <p align="center">🚀 #VQV</p>
 
 
 # Sumário
@@ -13,7 +13,6 @@
 ## Demonstração da aplicação
 <br/>
 <img src="./app.gif" />
-<br/>
 <br/>
 
 ## Objetivos
@@ -26,6 +25,7 @@ Foram utilizadas 2 APIs distintas como base de dados, linkadas abaixo, uma para 
 
 O layout tem como foco principal os dispositivos móveis.
 
+<br/>
 
 ## Tecnologias
 
@@ -49,7 +49,6 @@ O layout tem como foco principal os dispositivos móveis.
 - Manipular informações do localStorage;
 - Aprimorar as softskills desenvolvendo o projeto em grupo.
 
-<br/>
 <br/>
 
 ##  Pré-requisitos
