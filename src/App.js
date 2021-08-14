@@ -7,7 +7,7 @@ import './App.css';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/recipes-app">
       <Provider store={ store }>
         <Routes />
       </Provider>
