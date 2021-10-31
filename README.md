@@ -59,13 +59,18 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ## Como rodar a aplicação
 
-1. Clone o repositório
-  * `git clone git@github.com:vitor-m-cardoso/recipes-app.git`.
-2. Instale as dependências e inicialize o projeto
+1. Clone o repositório e entre na pasta que você acabou de clonar.
+  * `git clone git@github.com:vitor-m-cardoso/react-challenge-001FT.git`
+  * `cd react-challenge-001FT`
+2. Instale as dependências e inicialize o projeto.
   * Instale as dependências:
     * `npm install`
-  * Inicialize o projeto:
+    * ou
+    * `yarn install`
+  * inicialize o projeto:
     * `npm start`
+    * ou
+    * `yarn start`
 
 ## Desenvolvedores
 
